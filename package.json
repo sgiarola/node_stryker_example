@@ -1,0 +1,21 @@
+{
+  "name": "stryker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-stryker": "^0.3.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2",
+    "stryker": "^0.4.5",
+    "stryker-api": "^0.2.1",
+    "stryker-html-reporter": "^0.2.2",
+    "stryker-mocha-runner": "^0.1.1"
+  }
+}
